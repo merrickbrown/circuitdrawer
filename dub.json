@@ -1,0 +1,11 @@
+{
+    "targetType": "executable",
+    "name": "Circuit Drawer",
+    "mainSourceFile": "main.d",
+    "sourcePath" : ".",
+    "importPaths" : [".", "../gfm/sdl2"],
+    "dependencies":
+    {
+        "gfm:sdl2" : "*"
+    }
+}
